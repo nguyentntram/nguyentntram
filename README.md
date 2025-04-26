@@ -9,7 +9,7 @@
 ## Tech Stack:
 [![My Skills](https://skillicons.dev/icons?i=js,html,css)](https://skillicons.dev)
 
-[![My Skills](https://skillicons.dev/icons?i=nodejs,express,flask)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=nodejs,express,flask, mongodb, mysql, sqlite)](https://skillicons.dev)
 
 [![My Skills](https://skillicons.dev/icons?i=python,java,c,cpp)](https://skillicons.dev)
 
