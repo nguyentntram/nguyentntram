@@ -4,7 +4,7 @@
 
 - 💬 Ask me about Python, web projects, or CS at Augie!
 - 🌱 I'm interested in web programming and game development
-- 📫 How to reach me: [tramnguyen200681@gmail.com](mailto:tramnguyen200681@gmail.com) / [@tram]([https://www.linkedin.com/in/tramnguyen](https://www.linkedin.com/in/tram-nguyen-27818a345/))  
+- 📫 How to reach me: [tramnguyen200681@gmail.com](mailto:tramnguyen200681@gmail.com) / [@tram](https://www.linkedin.com/in/tram-nguyen-27818a345/)
 - 😄 Pronouns: She/her
 - 💜 Fun fact: I love crocheting and K-pop 
 
