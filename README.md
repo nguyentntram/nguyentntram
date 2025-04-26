@@ -4,9 +4,7 @@
 
 
 ## Tech Stack:
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,py)](https://skillicons.dev)
-[![My Skills](https://skillicons.dev/icons?i=js,html,css)](https://skillicons.dev)
-[![My Skills](https://skillicons.dev/icons?i=js,html,css)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,py,java,flask,github)](https://skillicons.dev)
 
 <!--
 **tramnguyen200681/tramnguyen200681** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
