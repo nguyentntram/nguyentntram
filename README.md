@@ -1,3 +1,7 @@
+<a href="https://www.linkedin.com/in/tram-nguyen-27818a345/" target="_blank">
+  <img src="https://img.shields.io/badge/LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+
 # Hi yo! I am Tram Nguyen!👋
 
 <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/refs/heads/main/Smileys/Face%20With%20Open%20Eyes%20And%20Hand%20Over%20Mouth.webp" width="120"/>
