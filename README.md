@@ -13,7 +13,7 @@
 
 [![My Skills](https://skillicons.dev/icons?i=python,java,c,cpp)](https://skillicons.dev)
 
-[![My Skills](https://skillicons.dev/icons?i=vscode,idea,github,figma,eclipse)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=vscode,idea,github)](https://skillicons.dev)
 
 <!--
 **tramnguyen200681/tramnguyen200681** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
