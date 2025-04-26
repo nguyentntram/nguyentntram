@@ -2,9 +2,13 @@
 
 🎓 I am currently double majoring in Computer Science and Data Science.
 
+- 💬 Ask me about Python, web projects, or CS at Augie!
+- 🌱 I'm interested in web programming and game development.
+- 💜 Fun fact: I love crocheting and K-pop 
+
 
 ## Tech Stack:
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,py,java,flask,github)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,py,java,flask,github,vscode)](https://skillicons.dev)
 
 <!--
 **tramnguyen200681/tramnguyen200681** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
