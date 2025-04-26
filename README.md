@@ -1,6 +1,6 @@
 # Hi yo! I am Tram Nguyen!👋
 
-🎓 I am currently double majoring in Computer Science and Data Science.
+🎓 I am currently double majoring in Computer Science and Data Science at Augustana College.
 
 - 💬 Ask me about Python, web projects, or CS at Augie!
 - 🌱 I'm interested in web programming and game development
