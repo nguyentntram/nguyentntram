@@ -6,9 +6,14 @@
 - 🌱 I'm interested in web programming and game development.
 - 💜 Fun fact: I love crocheting and K-pop 
 
-
 ## Tech Stack:
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,py,java,flask,github,vscode)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,py)](https://skillicons.dev)
+
+[![My Skills](https://skillicons.dev/icons?i=nodejs,express,flask)](https://skillicons.dev)
+
+[![My Skills](https://skillicons.dev/icons?i=python,java,c,cpp)](https://skillicons.dev)
+
+[![My Skills](https://skillicons.dev/icons?i=vscode,idea,github,figma,eclipse)](https://skillicons.dev)
 
 <!--
 **tramnguyen200681/tramnguyen200681** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
