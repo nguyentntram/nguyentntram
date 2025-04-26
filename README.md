@@ -11,7 +11,7 @@
 
 [![My Skills](https://skillicons.dev/icons?i=nodejs,express,flask,mongodb,mysql,sqlite)](https://skillicons.dev)
 
-[![My Skills](https://skillicons.dev/icons?i=python,java,c,cpp)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=python,java,c)](https://skillicons.dev)
 
 [![My Skills](https://skillicons.dev/icons?i=vscode,idea,github)](https://skillicons.dev)
 
