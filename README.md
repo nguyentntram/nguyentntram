@@ -1,6 +1,6 @@
 # Hi yo! I am Tram Nguyen!👋
 
-<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/refs/heads/main/Smileys/Face%20With%20Open%20Eyes%20And%20Hand%20Over%20Mouth.webp" width="100"/>
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/refs/heads/main/Smileys/Face%20With%20Open%20Eyes%20And%20Hand%20Over%20Mouth.webp" width="120"/>
 
 🎓 I am currently double majoring in Computer Science and Data Science at Augustana College.
 
