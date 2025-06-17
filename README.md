@@ -17,9 +17,9 @@
 ## Tech Stack:
 [![My Skills](https://skillicons.dev/icons?i=python,java,cpp,ts,js,html,css,c,go,bash)](https://skillicons.dev)
 
-[![My Skills](https://skillicons.dev/icons?i=html,css)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=flask,react,nextjs,nodejs,express,redux,tailwind)](https://skillicons.dev)
 
-[![My Skills](https://skillicons.dev/icons?i=nodejs,express,flask,mongodb,mysql,sqlite)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=postgres,mongodb,mysql,sqlite,redis,supabase,dynamodb)](https://skillicons.dev)
 
 [![My Skills](https://skillicons.dev/icons?i=vscode,idea,github)](https://skillicons.dev)
 
