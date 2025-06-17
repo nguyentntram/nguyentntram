@@ -21,7 +21,7 @@
 
 [![My Skills](https://skillicons.dev/icons?i=postgres,mongodb,mysql,sqlite,redis,supabase,dynamodb)](https://skillicons.dev)
 
-[![My Skills](https://skillicons.dev/icons?i=vscode,idea,github)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=aws,gcp,docker,kubernetes,githubactions,terraform,linux)](https://skillicons.dev)
 
 <!--
 **tramnguyen200681/tramnguyen200681** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
