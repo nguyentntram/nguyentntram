@@ -10,7 +10,7 @@
 
 - 💬 Ask me about Python, web projects, or CS at Augie!
 - 🌱 I'm interested in web programming and AI
-- 📫 How to reach me: [tramnguyen.swe@gmail.com](mailto:tramnguyen.swe@gmail.com) / [@tram](https://www.linkedin.com/in/tram-nguyen-27818a345/)
+- 📫 How to reach me: [tramnguyen.swe@gmail.com](mailto:tramnguyen.swe@gmail.com) / [@tram](https://www.linkedin.com/in/nguyentntram/)
 - 😄 Pronouns: She/her
 - 💜 Fun fact: I love crocheting and K-pop 
 
