@@ -15,11 +15,11 @@
 - 💜 Fun fact: I love crocheting and K-pop 
 
 ## Tech Stack:
+[![My Skills](https://skillicons.dev/icons?i=python,java,cpp,ts,js,html,css,c,go,bash)](https://skillicons.dev)
+
 [![My Skills](https://skillicons.dev/icons?i=html,css)](https://skillicons.dev)
 
 [![My Skills](https://skillicons.dev/icons?i=nodejs,express,flask,mongodb,mysql,sqlite)](https://skillicons.dev)
-
-[![My Skills](https://skillicons.dev/icons?i=python,java,cpp,ts,js,html,css,c,go,bash)](https://skillicons.dev)
 
 [![My Skills](https://skillicons.dev/icons?i=vscode,idea,github)](https://skillicons.dev)
 
