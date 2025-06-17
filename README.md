@@ -6,10 +6,10 @@
 
 <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/refs/heads/main/Smileys/Face%20With%20Open%20Eyes%20And%20Hand%20Over%20Mouth.webp" width="120"/>
 
-🎓 I am currently double majoring in Computer Science and Data Science at Augustana College.
+🎓 I am currently majoring in Computer Science at Augustana College.
 
 - 💬 Ask me about Python, web projects, or CS at Augie!
-- 🌱 I'm interested in web programming and game development
+- 🌱 I'm interested in web programming and AI
 - 📫 How to reach me: [tramnguyen200681@gmail.com](mailto:tramnguyen200681@gmail.com) / [@tram](https://www.linkedin.com/in/tram-nguyen-27818a345/)
 - 😄 Pronouns: She/her
 - 💜 Fun fact: I love crocheting and K-pop 
