@@ -17,7 +17,7 @@
 ## Tech Stack:
 [![My Skills](https://skillicons.dev/icons?i=python,java,cpp,ts,js,html,css,c,go,bash)](https://skillicons.dev)
 
-[![My Skills](https://skillicons.dev/icons?i=flask,react,nextjs,nodejs,express,redux,tailwind)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=flask,react,nextjs,nodejs,express,redux,tailwind,bootstrap)](https://skillicons.dev)
 
 [![My Skills](https://skillicons.dev/icons?i=postgres,mongodb,mysql,sqlite,redis,supabase,dynamodb)](https://skillicons.dev)
 
